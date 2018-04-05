@@ -1,0 +1,24 @@
+Training					
+Sport	Swim	Bike	Run	Strength	Volume
+Mon	Rec 0:15-0:30			SM 0:45		0:45-1:15
+Tues	SS + An or ME + AE 0:45-1:00	SS or Rec 0:45-1:00	An or ME 0:45-1:00		1:30-3:00
+Wed		An + Fo or ME + Fo      1:00-1:30	SS 0:30-0:45		1:00-2:15
+Thurs	SS + Fo + ME 0:45-1:00		SS 0:30-0:45		1:15-1:45
+Fri	Rec 0:15-0:30	SS 1:00-1:30			1:00-2:00
+Sat	An or SS + ME + SS  0:45-1:00	Rec 0:45-1:00	ME + AE 1:15-1:45		2:00-3:45
+Sun		ME + AE 1:30-2:00	AE or ME 0:15		1:45-2:15
+Volume	2:15-4:00	3:30-7:00	2:45-4:30	0:45	9:15-16:15
+Sessions	3-5	3-5	4-5	1	11-16
+					
+					
+Rest and Test					
+Sport	Swim	Bike	Run	Strength	Volume
+Mon				SM 0:45	0:45
+Tues	SS 0:30-0:45		SS 0:30-0:45		1:00-1:30
+Wed		SS 0:45-1:00			0:45-1:00
+Thurs	Te 0:30-0:45		SS 0:30-0:45		1:00-1:30
+Fri		Rec 1:00			1:00
+Sat	SS 0:30-0:45		Te 1:15		1:45-2:00
+Sun		Te 1:30	ME 0:15		1:45
+Volume	1:30-2:15	3:15-3:30	2:30-3:00		8:00-9:30
+Sessions	3	3	4	1	11-12
